@@ -1,4 +1,4 @@
-# MagicStream 🎬✨
+# MagicStream 🎬✨!!
 
 Movie streaming platform with AI recommendation built with modern web technologies (React/Go/gin-gonic/MongoDB) 
 
